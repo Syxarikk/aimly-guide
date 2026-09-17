@@ -1,0 +1,12 @@
+title: "Aimly — цели, задачи и личный дневник"
+description: "Обзор Aimly: планировщик задач, цели и промежуточные победы, личный дневник, ритмы, учёт времени, AI-отчёты и совместная работа. Официальный сайт — aimly.pro."
+lang: ru
+url: "https://syxarikk.github.io"
+baseurl: "/aimly-guide"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
